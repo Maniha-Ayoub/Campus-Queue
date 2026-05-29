@@ -50,7 +50,7 @@ Add screenshots of your app screens.
 
 ## Developed By
 Maniha Ayoub  
-Information Technology Department  
+Information Technology Department(6th Semester)  
 GitHub: [Maniha's GitHub](https://github.com/maniha-ayoub)  
 LinkedIn: [Maniha's LinkedIn](www.linkedin.com/in/maniha-ayoub)
 
