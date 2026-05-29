@@ -40,7 +40,7 @@ Improve UI design with dark mode support
 Add admin analytics panel for daily reports
 Integrate department-specific chat channels
 # Developed By
-Maniha Ayoub
-Information Technology Department
-GitHub: Maniha's GitHub
-LinkedIn: Maniha's LinkedIn
+.Maniha Ayoub
+.Information Technology Department
+.GitHub: Maniha's GitHub
+.LinkedIn: Maniha's LinkedIn
